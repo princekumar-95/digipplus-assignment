@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Routes>
-        <Route path="https://princekumar-95.github.io/" element={<Home />} />
+        <Route path="/princekumar-95.github.io" element={<Home />} />
         <Route exact path="/my-jobs" element={<MyJobs />} />
         <Route exact path="/my-payment" element={<MyPayment />} />
           <Route exact path="*" element={<Home />} />
