@@ -1,0 +1,17 @@
+.announcement{
+
+    margin: 30px auto;
+    padding: 10px 10px 10px 20px;
+    width: 70%;
+    height: auto;
+    border-radius: 5px;
+    background-color: #a9dff8;
+    color: #386f7c;
+    position: relative;
+
+}
+.announcement-title{
+    position: absolute;
+    top:-32px;
+    right:0;
+}
